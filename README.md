@@ -9,7 +9,7 @@ $ npm install @andjsrk/is-nullish
 # Usage
 ```js
 // for CommonJS
-const isNullish = require('is-nullish')
+const isNullish = require('@andjsrk/is-nullish')
 
 // for ESM
 import isNullish from '@andjsrk/is-nullish'
