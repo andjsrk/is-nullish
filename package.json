@@ -3,8 +3,5 @@
 	"description": "Returns true if the given value is null or undefined",
 	"author": "andjsrk",
 	"version": "1.0.2",
-	"main": "index.js",
-	"devDependencies": {
-		"typescript": "latest"
-	}
+	"main": "index.js"
 }
