@@ -2,7 +2,7 @@
 	"name": "@andjsrk/is-nullish",
 	"description": "Returns true if the given value is null or undefined",
 	"author": "andjsrk",
-	"version": "1.0.3",
+	"version": "1.1.0",
 	"main": "./index.js",
 	"exports": {
 		".": {
