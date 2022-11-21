@@ -3,5 +3,17 @@
 	"description": "Returns true if the given value is null or undefined",
 	"author": "andjsrk",
 	"version": "1.0.3",
-	"main": "index.js"
+	"main": "./index.js",
+	"exports": {
+		".": {
+			"require": {
+				"types": "./index.d.ts",
+				"default": "./index.js"
+			},
+			"import": {
+				"types": "./index.d.mts",
+				"default": "./index.mjs"
+			}
+		}
+	}
 }
